@@ -109,7 +109,7 @@ void setup()   {
   display.setTextSize(1);
   display.setTextColor(WHITE);
   display.setCursor(35,0);
-  display.println("DUST BIN");
+  display.println("AUTO PUMP");
 
   display.setTextSize(1);
   display.setTextColor(WHITE);
@@ -121,7 +121,7 @@ void setup()   {
   display.setCursor(0,15);
   display.setTextSize(2);
   display.setTextColor(WHITE);
-  display.print("CHIP2CLOUD"); 
+  display.print("AIMEN TECH"); 
   display.display();
   //delay(1000);
 
